@@ -30,8 +30,14 @@ public class Execute {
 		}
 		else if(pet.equals("cat"))
 			System.out.println("I had a cat named gigicuta");
+<<<<<<< HEAD
 
 		System.out.println("Git is gonna be usefull");
+=======
+		
+		System.out.println("Some text from other branch");
+
+>>>>>>> DonCroWww-patch-1
 	}
 
 }
