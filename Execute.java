@@ -32,11 +32,12 @@ public class Execute {
 			System.out.println("I had a cat named gigicuta");
 
 
-		System.out.println("Git is gonna be usefull");
+		System.out.println("Git is gonna be usefull");	
 
 
 		System.out.println("Some text from other branch");
 		System.out.println("That's somr text from my phone");
+		System.out.println("Thtat's a message from my laptop");
 
 	}
 
