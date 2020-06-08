@@ -17,11 +17,9 @@ public class Execute {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-//		System.out.println("Hello over there, what's your name?");
+
 		Scanner myScanner= new Scanner(System.in);
-//		String name = myScanner.nextLine();
-//		System.out.println("Hi " +name+" how old are u?");
-//		int age = myScanner.nextInt();
+
 		System.out.println("What would you chose between a cat and a dog?");
 
 		String pet = myScanner.nextLine( );
